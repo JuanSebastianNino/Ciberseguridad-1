@@ -43,4 +43,12 @@ Streaming:
 
 <img width="1861" height="1048" alt="Captura desde 2026-08-10 15-03-12" src="https://github.com/user-attachments/assets/250df227-c8d7-42c7-8807-868fce30c305" />
 
-Paso 9: De la lista de procesos elegimos uno (en mi caso 2044) y lo monitoreamos en tiempo real (guardandolo todo en un archivo de texto
+Paso 9: De la lista de procesos elegimos uno (en mi caso 2044) y lo monitoreamos en tiempo real (guardandolo todo en un archivo de texto), luego abrimos el terminal de windows
+
+<img width="1277" height="565" alt="Captura de pantalla_2026-08-10_15-13-49" src="https://github.com/user-attachments/assets/2f2152ef-c4c7-44bd-9e4e-025dc8f074fe" />
+
+Paso 10: Revisamos la informacion en la terminal de windows desde kali
+
+<img width="1276" height="468" alt="Captura de pantalla_2026-08-10_15-14-05" src="https://github.com/user-attachments/assets/6a76a54c-ad98-4efe-bd56-3e231cb10472" />
+
+<img width="1278" height="799" alt="Captura de pantalla_2026-08-10_15-14-17" src="https://github.com/user-attachments/assets/3910101d-5362-4fe4-b4d3-828303378125" />
