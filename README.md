@@ -27,3 +27,20 @@ Paso 6: Deberemos mantener la conexion y "privilegios" para seguir "explorando e
 
 <img width="1280" height="696" alt="Captura de pantalla_2026-08-10_15-12-38" src="https://github.com/user-attachments/assets/84348db0-5676-423e-9aa9-5ad13b5f1cbe" />
 
+Paso 7: Cargar el programa de post-explotacion (kiwi de mimikatz) para tomar todas las credenciales que esten el el dispositivo (windows)
+
+<img width="1279" height="763" alt="Captura de pantalla_2026-08-10_15-12-55" src="https://github.com/user-attachments/assets/6913342d-98ad-4fca-afe5-c49a10321738" />
+
+Paso 8: Tomamos capturas de pantalla del dispositivo victima (windows), hacemos una grabacion en vivo de la pantalla (streaming) y revisamos los procesos que esten ejecutandose
+
+<img width="1278" height="765" alt="Captura de pantalla_2026-08-10_15-13-35" src="https://github.com/user-attachments/assets/98768a68-f277-407f-825d-61ff765b90c8" />
+
+Captura de pantalla:
+
+<img width="800" height="600" alt="ORBnIcXA" src="https://github.com/user-attachments/assets/a87c3a35-6168-4431-b6c9-450f6991392c" />
+
+Streaming:
+
+<img width="1861" height="1048" alt="Captura desde 2026-08-10 15-03-12" src="https://github.com/user-attachments/assets/250df227-c8d7-42c7-8807-868fce30c305" />
+
+Paso 9: De la lista de procesos elegimos uno (en mi caso 2044) y lo monitoreamos en tiempo real (guardandolo todo en un archivo de texto
